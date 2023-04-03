@@ -1,6 +1,6 @@
 # Wiederholung,Python, Processing, Medientechnik an der Hochschule Emden/Leer
 
-Dies sind Aufgaben für die Wiederholung von Programmieren 1 aus dem Medientechnik Programmierkurs. Vielen Dank an  der Hochschule Emden/Leer. Vielen Dank an LauMeiso für die Unterstützung bei der Erstellung.  
+Dies sind Aufgaben für die Wiederholung von Programmieren 1 aus dem Medientechnik Programmierkurs. Vielen Dank an LauMeiso für die Unterstützung bei der Erstellung.  
 
 Sie finden hier einige Übungsaufgaben zu verschiedenen Themen aus dem Modul Programmieren 1. Diese können sie selbstständig nutzen um ihre Kenntnisse zu vertiefen als Vorbereitung auf das Projekt in Programmieren 2. Bei Fragen können Sie uns jeder Zeit gerne ansprechen. Allerdings werde ich diese nicht mehr zusätzlich im Kurs behandeln. Diese Materialien sind eine Unterstützung für sie beim Auffrischen und Vertiefen ihrer Kenntnisse. 
 
